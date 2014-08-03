@@ -1,0 +1,758 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getWho",
+				"getWhoIsServer"
+			],
+			[
+				"get",
+				"getTLD"
+			],
+			[
+				"retu",
+				"returnData"
+			],
+			[
+				"whoi",
+				"whoIsEntry"
+			],
+			[
+				"getWh",
+				"getWhoIsServer"
+			],
+			[
+				"ret",
+				"returnData"
+			],
+			[
+				"whois",
+				"whoisdata"
+			],
+			[
+				"looku",
+				"lookupData"
+			],
+			[
+				"GetCu",
+				"GetCustomerObject"
+			],
+			[
+				"parse_ini",
+				"parse_ini_file"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"color",
+				"colorlist"
+			],
+			[
+				"contact",
+				"contactphone"
+			],
+			[
+				"contac",
+				"contactphone"
+			],
+			[
+				"conta",
+				"contactname"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"Wizard",
+				"WizardHandler"
+			],
+			[
+				"data",
+				"dataClient"
+			],
+			[
+				"address",
+				"address"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"addres",
+				"address"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"markd",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 251.0,
+		"history":
+		[
+			"clear",
+			"ls",
+			"ks",
+			"node whois.js jonfriesen.ca",
+			"node whois jonfriesen.ca",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Dropbox/Code/WhoAre/test/index.js",
+		"/D/Dropbox/Code/WhoAre/index.js",
+		"/D/Dropbox/Code/WhoAre/package.json",
+		"/D/Dropbox/Code/WhoAre/README.md",
+		"/D/Dropbox/Code/NodeWhoIs/whois.js",
+		"/D/Dropbox/Code/NodeWhoIs/ToDo",
+		"/D/Dropbox/Code/NodeWhoIs/node_modules/whois.bm/whois.bm",
+		"/D/Dropbox/Code/NodeWhoIs/node_modules/whoare/test/index.js",
+		"/D/Dropbox/Code/WhoAre/Makefile",
+		"/D/Dropbox/Code/WhoAre/node_modules/rewire/lib/index.js",
+		"/D/Dropbox/Code/WhoAre/node_modules/chai/index.js",
+		"/D/Dropbox/Code/NodeWhoIs/node_modules/whoisclient/index.js",
+		"/D/Dropbox/Code/WhoAre/.gitignore",
+		"/C/Users/Jon/AppData/Roaming/npm/r.js",
+		"/C/Program Files (x86)/nodejs/npm",
+		"/C/Program Files/nodejs/node_modules/npm/npmrc",
+		"/D/Dropbox/Code/NodeWhoIs/node_modules/whoisclient/README.md",
+		"/D/Dropbox/Code/NodeWhoIs/node_modules/whoisclient/package.json",
+		"/D/Dropbox/Code/NodeWhoIs/node_modules/whoisclient/.npmignore",
+		"/C/Users/Jon/Documents/Battlefield 4/settings/PROFSAVE_header",
+		"/C/Users/Jon/Documents/Battlefield 4/settings/PROFSAVE",
+		"/C/Users/Jon/Documents/Battlefield 4/settings/meta.xml",
+		"/C/Users/Jon/Documents/Battlefield 4/settings/PROFSAVE_profile",
+		"/C/Users/Jon/Desktop/PROFSAVE_profile",
+		"/C/Users/Jon/Desktop/ashleyoneill.com/wp-content/themes/Chameleon/page.php",
+		"/C/Users/Jon/Desktop/.htaccess",
+		"/C/Users/Jon/Desktop/wordpress-3.9.1/wordpress/wp-includes/functions.php",
+		"/C/Users/Jon/Desktop/oshleycosplay.wordpress.2014-07-25.xml",
+		"/C/Users/Jon/Desktop/.statspasswd",
+		"/C/Users/Jon/Desktop/wp-config.php",
+		"/C/Users/Jon/Desktop/ashleyoneill.com/wp-config/wp-config.php",
+		"/C/Users/Jon/Desktop/wordpress-3.9.1/wordpress/wp-content/index.php",
+		"/C/Users/Jon/Desktop/ashleyoneill.com/wp-content/index.php",
+		"/C/Users/Jon/Desktop/config.php",
+		"/C/Users/Jon/Desktop/ashleyoneill.com/xmlrpc.php",
+		"/C/Users/Jon/Desktop/ashleyoneill.com/wp-mail.php",
+		"/C/Users/Jon/Desktop/index.php",
+		"/C/Users/Jon/Desktop/wp-settings.php",
+		"/C/Users/Jon/Desktop/game-of-life-v3.1.1/game-of-life-v3.1.1/assets/js/json-sans-eval.js",
+		"/C/Users/Jon/Desktop/game-of-life-v3.1.1/game-of-life-v3.1.1/assets/js/css-browser-selector.js",
+		"/C/Users/Jon/Desktop/game-of-life-v3.1.1/game-of-life-v3.1.1/assets/js/game-of-life-v3.1.1.js",
+		"/D/Dropbox/Code/Scripts/PrepareToolsVHD.ps1",
+		"/D/Dropbox/Code/OneLoginScraper/OneLoginScraper/bin/Debug/WebDriver.Support.xml",
+		"/C/Users/Jon/Desktop/appList.csv",
+		"/C/Users/Jon/Desktop/Final.csv",
+		"/C/Users/Jon/Desktop/freview.csv",
+		"/D/Dropbox/Code/OneLoginScraper/OneLoginScraper/bin/Debug/WebDriver.xml",
+		"/C/Users/Jon/Desktop/review.csv",
+		"/C/Users/Jon/Desktop/NeedMoreLove.csv",
+		"/C/Users/Jon/Desktop/Final1.csv",
+		"/C/Users/Jon/Desktop/succes.csv",
+		"/C/Users/Jon/Desktop/saml.csv",
+		"/C/Users/Jon/Desktop/dsucces.csv",
+		"/C/Users/Jon/Desktop/applistimages.csv",
+		"/C/Users/Jon/Desktop/test.cs",
+		"/C/Users/Jon/Desktop/applist_test_0.csv",
+		"/C/Users/Jon/Desktop/applist_test.csv",
+		"/C/Users/Jon/Desktop/appList - Copy.csv",
+		"/C/Users/Jon/AppData/Local/Google/Chrome/User Data/Default/Extensions/ioalpmibngobedobkmbhgmadaphocjdn/2.3.16_0/manifest.json",
+		"/C/Users/Jon/AppData/Local/Google/Chrome/User Data/Default/Extensions/ioalpmibngobedobkmbhgmadaphocjdn/2.3.16_0/background.js",
+		"/C/Users/Jon/AppData/Local/Google/Chrome/User Data/Default/Extensions/ioalpmibngobedobkmbhgmadaphocjdn/2.3.16_0/client.js",
+		"/C/Users/Jon/Desktop/OneLogin/Get-AppList.csx",
+		"/C/Users/Jon/Desktop/OneLogin/crap/Get-AppList.csx",
+		"/C/Users/Jon/AppData/Local/Google/Chrome/User Data/Default/Extensions/ioalpmibngobedobkmbhgmadaphocjdn/2.3.16_0/popup.html",
+		"/C/Users/Jon/AppData/Local/Google/Chrome/User Data/Default/Extensions/ioalpmibngobedobkmbhgmadaphocjdn/2.3.16_0/background.html",
+		"/C/Users/Jon/AppData/Local/Google/Chrome/User Data/Default/Extensions/kfgnpeijmldmjbigmlbjnkjlifodjfmm/6.3.0.0_0/manifest.json",
+		"/C/Users/Jon/Desktop/OneLogin/test.csx",
+		"/C/Users/Jon/Desktop/tempconvert.pl",
+		"/C/Users/Jon/Desktop/failedlogins.pl",
+		"/D/GitHub/ClientManager/README.md",
+		"/D/GitHub/ClientManager/Install/installscript.sql",
+		"/D/GitHub/ClientManager/Data/Data.php",
+		"/D/GitHub/ClientManager/dbtest.php",
+		"/D/GitHub/ClientManager/Header.php",
+		"/D/GitHub/ClientManager/Greybox/greybox.js",
+		"/D/GitHub/ClientManager/Greybox/greybox.css",
+		"/D/GitHub/ClientManager/include.php",
+		"/D/GitHub/ClientManager/new-customer.php",
+		"/D/GitHub/ClientManager/new-service-call.php",
+		"/D/Dropbox/Tools/doskey.cmd",
+		"/C/Users/Jon/Desktop/OneLogin/firsttest.csx",
+		"/C/Users/Jon/Desktop/OneLogin/setup.txt",
+		"/D/GitHub/ClientManager/Objects/Customer.php",
+		"/D/GitHub/ClientManager/Objects/ServiceCall.php",
+		"/D/GitHub/ClientManager/Styles/styles.css",
+		"/C/Users/Jon/Desktop/OneLogin/packages.config",
+		"/D/GitHub/ClientManager/service-calls.php",
+		"/D/GitHub/ClientManager/security.php",
+		"/D/GitHub/ClientManager/customers.php",
+		"/D/GitHub/ClientManager/Data/Config.php",
+		"/D/GitHub/ClientManager/Data/AssociativeReader.php",
+		"/D/GitHub/ClientManager/Objects/Technician.php",
+		"/D/GitHub/ClientManager/Data/Connection.php",
+		"/D/GitHub/ClientManager/Data/config.ini",
+		"/D/GitHub/ClientManager/login.php",
+		"/D/GitHub/ClientManager/Data/MySqlUtilities.php",
+		"/D/GitHub/ClientManager/new-technician.php",
+		"/D/GitHub/ClientManager/technicians.php",
+		"/D/GitHub/ClientManager/Data/IDataReader.php",
+		"/D/GitHub/ClientManager/Styles/datepicker.js",
+		"/D/GitHub/ClientManager/Data/QueryErrorReader.php",
+		"/D/GitHub/ClientManager/Install/Napos.sql",
+		"/C/wamp/alias/sqlbuddy.conf",
+		"/C/wamp/alias/clientmanager.conf",
+		"/C/wamp/alias/phpmyadmin - Copy.conf",
+		"/D/GitHub/NerdAidManagementSystem/Header.php",
+		"/D/GitHub/NerdAidManagementSystem/customers.php",
+		"/D/GitHub/NerdAidManagementSystem/Data/AssociativeReader.php",
+		"/C/Users/Jon/Desktop/malloc.c",
+		"/D/Dropbox/Code/AngularJS-Boilerplate/.bowerrc",
+		"/D/Dropbox/Code/AngularJS-Boilerplate/app/views/main.html",
+		"/C/Users/Jon/Desktop/Speech",
+		"/D/Dropbox/MarvPeters/Site v2/emailtemplate.html",
+		"/D/Dropbox/MarvPeters/Site v2/submit.php",
+		"/D/Dropbox/MarvPeters/Site v2/submit2.php",
+		"/C/wamp/www/js/core.js",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/js/paypal-button.min.js",
+		"/D/GitHub/NerdAidManagementSystem/new-service-call.php",
+		"/C/Users/Jon/AppData/Local/Temp/fz3temp-1/submit 2.php",
+		"/D/Dropbox/MarvPeters/Site v2/mail_test_linux.php",
+		"/D/Dropbox/MarvPeters/Site v2/index.php",
+		"/D/Dropbox/MarvPeters/Site v2/error.log",
+		"/D/Dropbox/MarvPeters/Site v2/js/core.js",
+		"/C/Users/Jon/AppData/Local/Temp/fz3temp-1/submit.php",
+		"/C/wamp/www/submit.php",
+		"/C/wamp/www/style.css",
+		"/C/wamp/www/style2.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"re",
+			"returnData",
+			"whoisdata",
+			"23278",
+			"Dell Online Self Dispatch",
+			"launch_app",
+			"parseServiceCall",
+			"GetCustomerObject",
+			"reader",
+			"GetTechnicianObject",
+			"GetObject",
+			"reader",
+			"connectionIsGood",
+			"style",
+			"check",
+			"&nbsp;&nbsp;&nbsp;&nbsp;",
+			"&npbs;",
+			"class=\"imageItem\"",
+			"$data",
+			"dataSet($data['*'])",
+			"template",
+			"icons",
+			"237",
+			"p9",
+			"\n}",
+			"p9",
+			"name",
+			"module",
+			", ",
+			",",
+			"ban",
+			"console",
+			"		  ",
+			"$scope",
+			"		  ",
+			"addpackageForm",
+			"packagees",
+			"package",
+			"address",
+			"credentials",
+			"loginForm",
+			"class",
+			"mailgun",
+			"my-ghost-blog.com",
+			"localhost",
+			"#b2c108",
+			"#ff993a",
+			"#3daae9",
+			"3aff76",
+			"e7492a",
+			".about",
+			"ff993a",
+			"font-weight",
+			"line-height",
+			"pgh-paragraph",
+			"hacker",
+			"designer",
+			"creative",
+			"sec",
+			"sticky-nav",
+			".guide-index",
+			"guide",
+			"content",
+			"g10-2",
+			"paragragh",
+			"paragrah"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Customer::GetCustomerObject",
+			"Technician::GetTechnicianObject",
+			"checkConnection",
+			"\n",
+			"&nbsp;",
+			"class=\"imageItem border\"",
+			"@$data",
+			"(isset($data['*']) ? $data['*'] : \"None\")",
+			"",
+			"\", \"",
+			"addPackageForm",
+			"pkg",
+			"package",
+			"addAddressForm",
+			"localhost:2368",
+			"#2B76A1",
+			"#3DAAE9",
+			"#AACDE2",
+			"b2c108",
+			"3aff76",
+			".navIndex"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Dropbox\\Code\\NodeWhoIs"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"data",
+				"Data\\Data.php"
+			],
+			[
+				"sty",
+				"Styles\\styles.css"
+			],
+			[
+				"dbtest",
+				"dbtest.php"
+			],
+			[
+				"service",
+				"Objects\\ServiceCall.php"
+			],
+			[
+				"customer",
+				"Objects\\Customer.php"
+			],
+			[
+				"db",
+				"dbtest.php"
+			],
+			[
+				"ass",
+				"Data\\AssociativeReader.php"
+			],
+			[
+				"tec",
+				"Objects\\Technician.php"
+			],
+			[
+				"inc",
+				"include.php"
+			],
+			[
+				"log",
+				"login.php"
+			],
+			[
+				"confi",
+				"Data\\config.ini"
+			],
+			[
+				"con",
+				"Data\\Config.php"
+			],
+			[
+				"instal",
+				"Install\\installscript.sql"
+			],
+			[
+				"coni",
+				"Data\\Config.php"
+			],
+			[
+				"config",
+				"Data\\config.ini"
+			],
+			[
+				"tech",
+				"Objects\\Technician.php"
+			],
+			[
+				"cone",
+				"Data\\Connection.php"
+			],
+			[
+				"as",
+				"Data\\AssociativeReader.php"
+			],
+			[
+				"regist",
+				"src\\app\\views\\register.html"
+			],
+			[
+				"reg",
+				"src\\app\\scripts\\controllers\\register.js"
+			],
+			[
+				"controllers/pac",
+				"src\\app\\scripts\\controllers\\package.js"
+			],
+			[
+				"controllers/pack",
+				"src\\test\\spec\\controllers\\package.js"
+			],
+			[
+				"pack",
+				"src\\app\\data\\packages.json"
+			],
+			[
+				"",
+				"src\\app\\scripts\\controllers\\register.js"
+			],
+			[
+				"insert",
+				"backend\\tests\\table\\user.insert.js"
+			],
+			[
+				"register",
+				"src\\app\\scripts\\controllers\\register.js"
+			],
+			[
+				"inde",
+				"src\\app\\index.html"
+			],
+			[
+				"controller/package.js",
+				"src\\app\\scripts\\controllers\\package.js"
+			],
+			[
+				"app",
+				"src\\app\\scripts\\app.js"
+			],
+			[
+				"dash",
+				"src\\app\\scripts\\controllers\\dashboard.js"
+			],
+			[
+				"snapsh",
+				"src\\app\\scripts\\controllers\\snapshot.js"
+			],
+			[
+				"pro",
+				"src\\app\\scripts\\controllers\\profile.js"
+			],
+			[
+				"insret.",
+				"backend\\tests\\table\\user.insert.js"
+			],
+			[
+				"user.in",
+				"backend\\tests\\table\\user.insert.js"
+			],
+			[
+				"cour",
+				"src\\app\\scripts\\controllers\\courier.js"
+			],
+			[
+				"regi",
+				"src\\app\\scripts\\controllers\\register.js"
+			],
+			[
+				"login",
+				"src\\app\\views\\login.html"
+			],
+			[
+				"addres",
+				"src\\app\\scripts\\controllers\\address.js"
+			],
+			[
+				"sna",
+				"src\\app\\scripts\\controllers\\snapshot.js"
+			],
+			[
+				"snap",
+				"src\\app\\data\\snapshots.json"
+			],
+			[
+				"regis",
+				"src\\app\\scripts\\controllers\\register.js"
+			],
+			[
+				"profi",
+				"src\\app\\scripts\\controllers\\profile.js"
+			],
+			[
+				"profile",
+				"src\\app\\scripts\\controllers\\profile.js"
+			],
+			[
+				"dataser",
+				"src\\app\\scripts\\services\\dataServices.js"
+			],
+			[
+				"nav",
+				"app\\views\\nav.html"
+			],
+			[
+				"main",
+				"src\\app\\views\\main.html"
+			],
+			[
+				"index",
+				"src\\app\\index.html"
+			],
+			[
+				"main.js",
+				"app\\scripts\\controllers\\main.js"
+			],
+			[
+				"main.ht",
+				"app\\views\\main.html"
+			],
+			[
+				"bower.js",
+				"bower_components\\angular\\bower.json"
+			],
+			[
+				"css",
+				"portfolio\\style.css"
+			],
+			[
+				"in",
+				"portfolio\\index.html"
+			],
+			[
+				"port",
+				"portfolio.js"
+			],
+			[
+				"ver",
+				"verge.css"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"ve",
+				"verge.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 126.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
